@@ -1,0 +1,20 @@
+{
+  "datos":[
+    {
+      "value":0,
+      "content":"delfin"
+    },
+    {
+      "value":1,
+      "content":"caballo"
+    },
+    {
+      "value":2,
+      "content":"jirafa"
+    },
+    {
+      "value":3,
+      "content":"elefante"
+    }
+  ]
+}
