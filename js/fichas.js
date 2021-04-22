@@ -6,7 +6,7 @@ let click = 0
 let aux = []
 let matchs=0
 const congrats = () => {
-  window.alert('¡Felicidades!')
+  setTimeout(()=>{window.alert('¡Felicidades! Completaste el juego')},500)
   document.getElementById('reset').removeAttribute('disabled')
   return document.querySelectorAll('#root button')
 }
