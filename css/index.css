@@ -1,6 +1,7 @@
 :root{
   --bg: #373737 ;
   --fichas: #00C8BA;
+  --txt
 }
 *{
   margin:0;
@@ -26,7 +27,8 @@ h1{
 }
 
 #root button{
-  color:var(--bg);
+  color:var(--txt);
+  font-weight:bold;
   outline: none;
   border:none;
   background: var(--fichas);
