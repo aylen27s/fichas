@@ -29,7 +29,7 @@ h1{
 
 #root button{
   color:var(--txt);
-  font-weight:bold;
+  font-size:1.2em;
   outline: none;
   border:none;
   background: var(--fichas);
