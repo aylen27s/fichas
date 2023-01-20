@@ -2,19 +2,23 @@
   "datos":[
     {
       "value":0,
-      "content":"delfin"
+      "content":"delfin",
+      "content-icon": "128044"
     },
     {
       "value":1,
-      "content":"caballo"
+      "content":"caballo",
+      "content-icon": "128052"
     },
     {
       "value":2,
-      "content":"jirafa"
+      "content":"perro",
+      "content-icon": "128054"
     },
     {
       "value":3,
-      "content":"elefante"
+      "content":"pulpo",
+      "content-icon": "128025"
     }
   ]
 }

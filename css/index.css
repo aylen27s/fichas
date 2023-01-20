@@ -1,5 +1,5 @@
 :root{
-  --bg: #373737 ;
+  --bg: #f1fcff ;
   --fichas: #00C8BA;
   --txt: #fff;
 }
@@ -57,7 +57,7 @@ h1{
 .hidden{
   display: none;
 }
-#reset{
+#mezclar{
   background: var(--fichas);
   padding:20px;
   border:none;
